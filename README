@@ -11,3 +11,8 @@ B Instala npm apt-get install npm
 C Instala socket.io con npm install socket.io
 D Instala express con npm install express
 E Instala jade con npm install jade 
+F Corre el servidor con node app.js y abre tu explorador en http://localhost:8080 o
+  la direccion y numero de puerto que hayas configurado
+G Abre en el explorador http://localhost:8080/pad.html
+H Mueve la imagen con los botones en pad.html
+I Modifica el codigo y prueba 
