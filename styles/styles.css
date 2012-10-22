@@ -1,0 +1,122 @@
+@font-face {
+    font-family: 'FontomasCustomRegular';
+    src: url('fonts/fontomas-webfont.eot');
+    src: url('fonts/fontomas-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/fontomas-webfont.woff') format('woff'),
+         url('fonts/fontomas-webfont.ttf') format('truetype'),
+         url('fonts/fontomas-webfont.svg#FontomasCustomRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body
+{
+	background-color:black;
+	margin:0px;
+	font-family:"Helvetica",Arial;
+	overflow-x:hidden;
+}
+header
+{	
+	color: white;
+	border-bottom:solid;
+	border-width:1px;
+	padding:5px;
+	padding-left:30px;
+}
+#contenido img
+{
+	margin: 10% 40%;
+	position:relative;
+}
+p
+{ 	
+	color: white;
+	display: block;
+	text-align: center;
+	font-style: bold italic;
+}
+#principal
+{
+	background-color: white;
+}
+#footer
+{
+	position: absolute;
+	bottom:0px;
+	background-color:#000;
+	font-size:10px;
+	width:100%;
+	color:#ABC8A4;
+	text-align:center;
+}
+#footer p
+{
+	display:inline-block;
+	margin-right:100px;
+}
+#controller
+{	
+	border-style: inset;
+	height: 400px;
+	margin: 5% 20%;
+	width: 220px;
+}
+#up
+{	
+	color: white;
+	background-color: #5882FA;
+	height: 50px;
+	margin: 70px 70px; 
+	text-align: center;
+	width: 70px;
+}
+#right
+{	
+	color: white;
+	background-color: #5882FA;
+	display: inline-block;
+	height: 50px;
+	margin-left: 30px;
+	text-align: center;
+	width: 70px;
+}
+#left
+{	
+	color: white;
+	background-color: #5882FA;
+	display: inline-block;
+	height: 50px;
+	margin-left: 20px;
+	text-align: center;
+	width: 70px;
+}
+#down
+{	
+	color: white;
+	background-color: #5882FA;
+	height: 50px;
+	margin: 70px 70px; 
+	text-align: center;
+	width: 70px;
+}
+#up:hover
+{
+	background-color: #80FF00;
+	color: black;
+}
+#right:hover
+{
+	background-color: #80FF00;
+	color: black;
+}
+#left:hover
+{
+	background-color: #80FF00;
+	color: black;
+}
+#down:hover
+{
+	background-color: #80FF00;
+	color: black;
+}

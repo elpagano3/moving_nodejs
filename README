@@ -1,0 +1,13 @@
+Moving_NodeJS
+
+Utiliza:
+NodeJs --> http://nodejs.org/download/
+Sockect.io --> http://socket.io/
+Express -->http://expressjs.com/
+Jade --> npm install jade
+
+A Instala NodeJS desde terminal en Linux/Mac apt-get install nodejs
+B Instala npm apt-get install npm
+C Instala socket.io con npm install socket.io
+D Instala express con npm install express
+E Instala jade con npm install jade 
